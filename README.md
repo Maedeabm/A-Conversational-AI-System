@@ -5,6 +5,6 @@ Having delved deeply into the DailyDialog dataset, I'd like to share my step-by-
 
 My initial step was a deep dive into the dataset's core:
 
-    I first determined the number of unique conversations in each CSV.
-    Curiosity led me to explore the different tags under 'act' and 'emotion' and their prevalence.
-    Ensuring data completeness, I also pinpointed any gaps in the data.
+I first determined the number of unique conversations in each CSV.
+Curiosity led me to explore the different tags under 'act' and 'emotion' and their prevalence.
+Ensuring data completeness, I also pinpointed any gaps in the data.
